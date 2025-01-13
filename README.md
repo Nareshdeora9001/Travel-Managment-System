@@ -1,4 +1,4 @@
 # Travel-Managment-System
 Using python I have create a travel managment system
-<br>
-Author:-Naresh Deora(Nims University)
+Author:-Naresh Deora
+B.TECH Computer Science (NIMS University Jaipur)
